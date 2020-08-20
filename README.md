@@ -12,7 +12,7 @@
 </a>
 <br/>
 
-Hi, I'm RAJAT PANCHOTIA , a Full Stack Developer and Machine learner 🚀 from India, currently. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm RAJAT PANCHOTIA , a python devloper and  Machine learning practioner 🚀 from India, currently. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   

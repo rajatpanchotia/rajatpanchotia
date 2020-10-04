@@ -4,7 +4,7 @@
 <a href="https://twitter.com/@panchotia_rajat">
   <img align="left" alt="RAJAT PANCHOTIA | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/RAJAT PANCHOTIA /">
+<a href="https://www.linkedin.com/in/rajat-panchotia/">
   <img align="left" alt="Rajat's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@rajat.panchotia>
